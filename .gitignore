@@ -5,3 +5,15 @@
 /Properties
 appsettings.Development.json
 appsettings.json
+*.cache
+*.props
+*.editorconfig
+*/.vs
+*/bin
+*/obj
+*/Properties
+*/appsettings.Development.json
+*/appsettings.json
+*/*.cache
+*/*.props
+*/*.editorconfig
